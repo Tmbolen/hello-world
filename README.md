@@ -1,2 +1,4 @@
 # hello-world
-First repository boom.
+First repository - boom.
+
+Sometimes a thing just needs testing.
